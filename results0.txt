@@ -1,0 +1,217 @@
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 805018
+num setup 474786
+num punchline 330232
+recall 0.44494173793
+f1 score 0.439908984761
+precision 0.434988809549
+accuracy 0.53522529931
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  15
+chunk 0
+num points 485
+num setup 296
+num punchline 189
+recall 0.587301587302
+f1 score 0.510344827586
+precision 0.451219512195
+accuracy 0.560824742268
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  17
+chunk 0
+num points 437
+num setup 229
+num punchline 208
+recall 0.408653846154
+f1 score 0.440414507772
+precision 0.477528089888
+accuracy 0.505720823799
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  19
+chunk 0
+num points 456
+num setup 262
+num punchline 194
+recall 0.556701030928
+f1 score 0.501160092807
+precision 0.455696202532
+accuracy 0.52850877193
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  25.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 804379
+num setup 474774
+num punchline 329605
+recall 0.447195885985
+f1 score 0.441619453092
+precision 0.436180381086
+accuracy 0.53661395934
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  35.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 813373
+num setup 477346
+num punchline 336027
+recall 0.446827189482
+f1 score 0.443783685527
+precision 0.440781361923
+accuracy 0.537271337996
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  40.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 807429
+num setup 469559
+num punchline 337870
+recall 0.440003551662
+f1 score 0.442675035956
+precision 0.445379158278
+accuracy 0.536387719539
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  45.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 802408
+num setup 470223
+num punchline 332185
+recall 0.443933350392
+f1 score 0.441749106949
+precision 0.439586252124
+accuracy 0.535499396816
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  20
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 809481
+num setup 481691
+num punchline 327790
+recall 0.452948534122
+f1 score 0.441994081819
+precision 0.431556979171
+accuracy 0.53688350931
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  25
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 817129
+num setup 478265
+num punchline 338864
+recall 0.438804358091
+f1 score 0.439422259983
+precision 0.440041904525
+accuracy 0.53570978389
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  30
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 812986
+num setup 478384
+num punchline 334602
+recall 0.440418766176
+f1 score 0.439088778677
+precision 0.437766799652
+accuracy 0.536891164177
+
+====================================
+
+results for:
+num chunks:  1
+changepoint min threshold:  30.0
+changepoint window size:  35
+mfcc window size:  0.025
+mfcc window step:  0.01
+mfcc num ceps:  13
+chunk 0
+num points 803684
+num setup 471656
+num punchline 332028
+recall 0.446233450191
+f1 score 0.442653855691
+precision 0.439131233736
+accuracy 0.535760323709
+
+====================================
+
