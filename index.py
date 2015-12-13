@@ -5,7 +5,7 @@ from os.path import isfile, join, splitext
 from random import shuffle
 # for analyzing data
 import sys
-sys.path.append('./python_speech_features-master')
+sys.path.append('./python_speech_features')
 from features import mfcc
 import scipy.io.wavfile as wav
 import numpy as np
